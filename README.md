@@ -11,7 +11,8 @@
 ![Screenshot_526](https://github.com/user-attachments/assets/2c94c0d2-3a5a-4796-aec6-8e91854093ad)
 
 
-Удаление тоже работает.
+Удаление работает:
+![Screenshot_527](https://github.com/user-attachments/assets/978cfda6-953b-4b3c-bd67-96fa818432b7)
 
 
 Для запуска проекта вам понадобится программы и модули данных версий: — php-8.1 — composer-2.4 — mysql-8.0
